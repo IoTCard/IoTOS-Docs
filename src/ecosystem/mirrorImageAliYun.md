@@ -4,26 +4,25 @@ ads: false
 editLink: false
 ---
 
-# 镜像共享-阿里云 {#aliyun-image}
+# Image sharing - Aliyun {#aliyun-image}
 
-::: tip 小提示
-如果已有 备案域名等前置条件 `镜像部署` 的方式会给您快速提供项目服务！
+::: tip Tips
+If you already have pre-conditions such as registered domain names, the method of `mirror deployment` will quickly provide you with project services!
 
-PS: `镜像共享` 为 `有偿服务`。
+PS: `Mirror Sharing` is a `paid service`.
 :::
 
-> 您可以通过  [联系我们](/about/) 获取联系方式
+> You can get contact information through [Contact Us](/about/)
 
-## 1 镜像共享{#mirror-sharing}
+## 1 mirror sharing {#mirror-sharing}
 
-> 将已制作的 `IoTOS` 镜像共享给您，由您来导入制作到指定服务器中一键运行开源代码
+> Share the made `IoTOS` image with you, and you can import and make it to the designated server to run the open source code with one click
 
-## 2 镜像部署{#mirror-deployment}
+## 2 mirror deployment {#mirror-deployment}
 
-> 您来扫码登录或远程辅助操作 给您部署镜像直接访问
+> You come to scan the code to log in or remotely assist in the operation, and you can deploy the mirror for direct access
 
-## 3 代理部署{#agent-deployment}
+## 3 Agent deployment {#agent-deployment}
 
-> 如果您没有阿里云账号、没有服务器、不是技术人员 等原因；`需要快速搭建服务` 
-> 我们提供一条龙服务 除主要信息实名、域名备案等必须您来操作的项目，其他由我们为您代理完成。
-
+> If you do not have an Alibaba Cloud account, do not have a server, are not technical personnel, etc.; `Need to quickly build services`
+> We provide one-stop service Except for the main information real name, domain name registration and other items that must be operated by you, we will complete the others for you.

@@ -15,15 +15,15 @@ onMounted(async () => {
   <section id="hero">
     <h1 class="tagline">
       <span class="accent">IoTOS-IoTCard</span>
-      <br />一款高效实用 IoTCard 管理 & 运营系统。
+      <br />An efficient and practical IoTCard management & operation system.
     </h1>
     <p class="description">
-      IoTOS 目前取名范围过大，其主要用于IoTCard 管理业务以高效、健壮、灵活设计 SaaS <br/>多语言、机器人推送、自动化管理、数据同步多类型算法为主要业务。
+      IoTOS is currently named too broadly, and it is mainly used for IoTCard management business with efficient, robust, and flexible design SaaS multi-language, robot push, automatic management, and data synchronization multi-type algorithms as the main business.
     </p>
     <p class="actions">
       <VueMasteryModal />
-      <a target="_blank"  class="get-started demoA" href="http://demo.iotos.top">
-        演示站点
+      <a target="_blank" class="get-started demoA" href="http://demo.iotos.top">
+        demo site
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -36,17 +36,17 @@ onMounted(async () => {
           />
         </svg>
       </a>
-      <a class="setup btn1" href="/guide/introduction.html">开始搭建</a>
+      <a class="setup btn1" href="/guide/introduction.html">Get started</a>
     </p>
   </section>
 
 
   <section id="special-sponsor">
-     <span class="lead"><a  href="/sponsor/">铂金赞助商展位 点击了解更多</a></span>
-    <template v-if="data && data.special">
-      <template v-for="{ url, img, name, description } of data.special">
+    <span class="lead"><a href="/sponsor/">Platinum Sponsor Booth Click to learn more</a></span>
+    <template v-if="data && data. special">
+      <template v-for="{ url, img, name, description } of data. special">
         <a :href="url" target="_blank" rel="sponsored noopener">
-          <picture v-if="img.endsWith('png')">
+          <picture v-if="img. endsWith('png')">
             <source
               type="image/avif"
               :srcset="`${base}/images/${img.replace(/\.png$/, '.avif')}`"
@@ -71,19 +71,19 @@ onMounted(async () => {
     <div class="vt-box">
       <h2><a href="https://gitee.com/chinaiot/iotos" target="_blank" >IoTOS</a></h2>
       <p>
-        基于多物联网管理系统API（如:中国移动 oneLink 等）开放能力，集成API管理、数据同步算法 功能。极致高效同步算法、系统构架业务分离。
+        Based on the open capabilities of multi-IoT management system APIs (such as: China Mobile oneLink, etc.), it integrates API management and data synchronization algorithm functions. Extremely efficient synchronization algorithm, system architecture and business separation.
       </p>
     </div>
     <div class="vt-box">
       <h2><a href="https://gitee.com/chinaiot/iotos-app" target="_blank" >IoTOS-App</a></h2>
       <p>
-        基于RuoYi-App 拓展开发 适配国际化多语言。UI 使用 uView 集成PC端常用业务功能（卡信息查询、智能诊断、用量详情、业务办理）。
+        Expand development based on RuoYi-App Adapt to international multi-language. The UI uses uView to integrate common business functions on the PC side (card information query, intelligent diagnosis, usage details, business processing).
       </p>
     </div>
     <div class="vt-box">
       <h2><a href="https://gitee.com/chinaiot/iotos-im" target="_blank" > IoTOS-IM</a></h2>
       <p>
-        基于 J-IM（t-io） 架构集成至 IoTOS 与 IoTOS-App 网络通信中间件。（网络通讯后续可拓展为其他协议接入或系统内部聊天等）
+        Based on the J-IM (t-io) architecture, it is integrated into IoTOS and IoTOS-App network communication middleware. (Network communication can be extended to other protocol access or system internal chat, etc.)
       </p>
     </div>
   </section>

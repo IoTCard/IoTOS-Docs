@@ -9,29 +9,29 @@ import { headerPlugin } from './headerMdPlugin'
 const nav: ThemeConfig['nav'] = [
 
   {
-    text: '部署指南',
+    text: 'Deployment Guide',
     activeMatch: `^/guide/`,
     link: '/guide/introduction',
     items: [
       {
-        text: '项目介绍',
+        text: 'Project Introduction',
         link: '/guide/introduction',
       },
       {
-        text: '项目截图',
+        text: 'project screenshot',
         link: '/guide/introduction',
       },
       {
-        text: '部署服务',
+        text: 'Deployment Service',
         link: '/guide/deploymentService',
       }
-     ]
+    ]
   },
   {
-    text: '源码地址',
+    text: 'source address',
     items: [
       {
-        text: '源码-国内地址',
+        text: 'Source code-domestic address',
         items: [
           { text: 'Gitee IoTOS', link: 'https://gitee.com/chinaiot/iotos' },
           { text: 'Gitee IoTOS-App', link: 'https://gitee.com/chinaiot/iotos-app' },
@@ -40,7 +40,7 @@ const nav: ThemeConfig['nav'] = [
         ]
       },
       {
-        text: '源码-国际地址',
+        text: 'Source Code-International Address',
         items: [
           { text: 'GitHub IoTOS', link: 'https://github.com/IoTCard/IoTOS' },
           { text: 'GitHub IoTOS-App', link: 'https://github.com/IoTCard/iotos-app' },
@@ -52,18 +52,18 @@ const nav: ThemeConfig['nav'] = [
     ]
   },
   {
-    text: '资料',
+    text: 'Information',
     activeMatch: `^/ecosystem/`,
     items: [
       {
-        text: '付费资料',
+        text: 'Payment information',
         items: [
           {
-            text: '知识星球',
+            text: 'Knowledge Planet',
             link: 'https://wx.zsxq.com/dweb2/index/group/88885884441552'
           },
           {
-            text: '镜像共享-阿里云',
+            text: 'Mirror Sharing-Alibaba Cloud',
             link: '/ecosystem/mirrorImageAliYun'
           }
         ]
@@ -71,11 +71,11 @@ const nav: ThemeConfig['nav'] = [
     ]
   },
   {
-    text: '联系我们',
+    text: 'Contact us',
     link: `/about/`
   },
   {
-    text: '赞助',
+    text: 'Sponsorship',
     link: '/sponsor/'
   },
 ]
@@ -83,11 +83,11 @@ const nav: ThemeConfig['nav'] = [
 export const sidebar: ThemeConfig['sidebar'] = {
   '/guide/': [
     {
-      text: '开始',
+      text: 'Start',
       items: [
-        { text: '项目介绍', link: '/guide/introduction' },
-        { text: '项目截图', link: '/guide/projectDisplay'},
-        { text: '部署服务', link: '/guide/deploymentService'}
+        { text: 'Project Introduction', link: '/guide/introduction' },
+        { text: 'Project Screenshot', link: '/guide/projectDisplay'},
+        { text: 'Deployment Service', link: '/guide/deploymentService'}
 
       ]
     }
@@ -230,9 +230,9 @@ export const sidebar: ThemeConfig['sidebar'] = {
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
-  lang: 'zh-CN',
+  lang: 'en-US',
   title: 'IoTOS',
-  description: 'IoTOS 一款高效实用 IoTCard 管理 & 运营系统。',
+  description: 'IoTOS is an efficient and practical IoTCard management & operation system. ',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 

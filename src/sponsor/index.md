@@ -9,76 +9,76 @@ sponsors: false
 import SponsorsGroup from '@theme/components/SponsorsGroup.vue'
 </script>
 
-# 成为 IoTOS 的赞助者 {#become-a-iotos-sponsor}
+# Become a Sponsor of IoTOS {#become-a-iotos-sponsor}
 
-## 赞助说明{#sponsor-description} 
+## Sponsorship Description{#sponsor-description}
 
-IoTOS 是采用 Apache-2.0 许可的开源项目，使用免费。
+IoTOS is an open source project under the Apache-2.0 license and free to use.
 
-如果您是企业的经营者并且有计划将 IoTOS 用在公司的经营产品中， 欢迎进行长期捐赠。
+If you are a business owner and plan to use IoTOS in your company's business products, long-term donations are welcome.
 
-长期捐赠有商业上的益处有：
+The business benefits of long-term donations are:
 
-- 积极响应，快速维护，及时更新；
-- 企业名称、Logo 及官网链接将长期展示在开源仓库、IoTOS 官网及宣发材料中；
-- 捐赠金额同比例抵扣未来 IoTOS 的付费产品价格。
+- Active response, fast maintenance and timely update;
+- The company name, logo and official website link will be displayed in the open source warehouse, IoTOS official website and publicity materials for a long time;
+- The donation amount will be deducted from the price of future paid IoTOS products in the same proportion.
 
-如果您对长期赞助 IoTOS 团队感兴趣，或者有其他好想法，欢迎联系开发团队微信 `iotos_top`，或发送邮件到 `card@iotos.top`。
+If you are interested in long-term sponsorship of the IoTOS team, or have other good ideas, please contact the development team on WeChat `iotos_top`, or send an email to `card@iotos.top`.
 
 
-## 关于赞助商等级{#sponsor-level}
+## About Sponsor Level {#sponsor-level}
 
-- **全球特别赞助商**:
-  - 全球独家赞助商。
-  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) 首屏无需滚动可见的独家 logo 展示位。
-  - 所有级别的 logo 展示位中最显眼的位置。
-- **铂金赞助商 (998 人民币/月)**:
-  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) 首页明显的 logo 展示位。
-  - 所有内容页面的侧边栏上的明显的 logo 展示位。
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `README.md` 上明显的 logo 展示位.
-- **金牌赞助商 (668 人民币/月)**:
-  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) 首页大号的 logo 展示位.
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `README.md` 上大号的 logo 展示位.
-- **银牌赞助商 (258 人民币/月)**:
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `BACKERS.md` 上中号的 logo 展示位.
-- **铜牌赞助商 (168 人民币/月)**:
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `BACKERS.md` 上小号的 logo 展示位.
-- **慷慨支持者 (88 人民币/月)**:
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `BACKERS.md` 文件的名单上 ，且在其他个人支持者的位置之前。
-- **个人支持者 (18 人民币/月)**:
-  - 在  [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) 和 [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) 的 `BACKERS.md` 文件的名单上 。
+- **Global Special Sponsor**:
+  - Exclusive global sponsor.
+  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) Exclusive logo placement visible above the fold without scrolling.
+  - The most prominent position of the logo display at all levels.
+- **Platinum Sponsor (998 RMB/month)**:
+  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) The obvious logo display on the homepage.
+  - Prominent logo placement on the sidebar of all content pages.
+  - In the `README of [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) Prominent logo display on .md`.
+- **Gold Sponsor (RMB 668/month)**:
+  - [iotos.top](/) & [demo.iotos.top](http://demo.iotos.top/) Large logo display on the homepage.
+  - In the `README of [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) Large logo display on .md`.
+- **Silver Sponsor (RMB 258/month)**:
+  - `BACKERS in [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) Medium size logo display on .md`.
+- **Bronze Sponsor (168 RMB/month)**:
+  - `BACKERS in [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) Small logo display on .md`.
+- **Generous supporter (88 RMB/month)**:
+  - `BACKERS in [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) .md` files, and before the location of other individual supporters.
+- **Personal supporter (18 RMB/month)**:
+  - `BACKERS in [`chinaiot/IoTOS`](https://gitee.com/chinaiot/iotos) and [`chinaiot/IoTOS-App`](https://gitee.com/chinaiot/iotos-app) .md` files on the list.
 
-## 全球特别赞助商 {#special-global-sponsor}
+## Special Global Sponsor {#special-global-sponsor}
 
 <SponsorsGroup tier="special" placement="page" />
 
-## 铂金赞助商{#platinum}
+## Platinum Sponsor {#platinum}
 
 <SponsorsGroup tier="platinum" placement="page" />
 
-## 铂金赞助商 (中国区) {#platinum-china}
+## Platinum Sponsor (China) {#platinum-china}
 
 <SponsorsGroup tier="platinum_china" placement="page" />
 
-## 金牌赞助商{#gold}
+## Gold Sponsor {#gold}
 
 <SponsorsGroup tier="gold" placement="page" />
 
-## 银牌赞助商 {#silver}
+## Silver Sponsor {#silver}
 
 <SponsorsGroup tier="silver" placement="page" />
 
 
-## 关于赞助资金{#about-sponsorship-funds}
+## About Sponsorship Funds {#about-sponsorship-funds}
 
-> 赞助资金会陆续全部投入到 `IoTOS` 开源系列：
+> Sponsorship funds will be invested in the `IoTOS` open source series:
 
-- 人员成本拓张、付费软件、社区建设、加快开源进度。
-- 演示站点服务器、运营成本等支出中。
+- Expansion of personnel costs, paid software, community building, and accelerated open source progress.
+- Demo site server, operating costs, etc. expenses.
 
-## 小额赞助方式{#small-sponsorship}
+## Small Sponsorship {#small-sponsorship}
 
-> 赞助后请添加微信好友 发送您的 `企业信息` 或 `个人团队` Git账号头像等便于赞助展示！
+> After sponsoring, please add WeChat friends and send your `corporate information` or `personal team` Git account avatar, etc. for sponsorship display!
 
 ![ wxSponsor](../public/images/readme-pic/cn/wxSponsor.png)
 

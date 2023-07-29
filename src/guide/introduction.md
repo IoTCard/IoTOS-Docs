@@ -2,188 +2,182 @@
 footer: false
 ---
 
-# 介绍 {#deployment-service}
+# Introduction {#deployment-service}
 
 
 
-## 什么是 IoTOS? {#what-is-iotos}
+## What is IoTOS? {#what-is-iotos}
 
-IoTOS 开源我们会作为一个开源系列开源延展，目前包括:
+IoTOS open source will be extended as an open source series, which currently includes:
 
-- [IoTOS](https://gitee.com/chinaiot/iotos) 国际物联卡管理系统、极致同步算法、套餐多包装、自动化管理、商城管理
-- [IoTOS-App](https://gitee.com/chinaiot/iotos-app) IoTOS适配移动端、端点聊天、购买下单、预存、充值续费
-- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app)  IoTOS 网络消息中间件 基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search)架构) 拓展
+- [IoTOS](https://gitee.com/chinaiot/iotos) International IoT Card Management System, Extreme Synchronization Algorithm, Package Multi-Packaging, Automated Management, Mall Management
+- [IoTOS-App](https://gitee.com/chinaiot/iotos-app) IoTOS adapts to mobile terminal, endpoint chat, purchase order, pre-deposit, recharge and renewal
+- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app) IoTOS network message middleware is based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search )([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search)architecture) extension
 
-IoTOS-IoTCard 基于物联网多上游API接口综合业务管理，遵从高效数据同步并维护运营，再到建立系统套餐分发进行资费营销，最后在营销、运营 等服务提供 过程中再次创造价值的流程。
+IoTOS-IoTCard is based on the comprehensive business management of multiple upstream API interfaces of the Internet of Things, follows the process of efficient data synchronization and maintenance operation, then establishes system package distribution for tariff marketing, and finally creates value again in the process of marketing, operation and other service provision.
 
-**整个系统暂且 分为五大模块：**
+**The whole system is temporarily divided into five modules:**
 
-*   **首页** ：统计分析展板；
-*   **连接** ：流量卡、设备、通道 运营管理 配置查看；
-*   **账号中心** ：企业、用户、角色 管理分配权限 账号；
-*   **自动化** ：自动化管理规则、模板、推送配置、触发条件 等；
-*   **系统管理** ：菜单、参数、字典、系统监控、系统工具、定时任务 等；
+* **Homepage**: statistical analysis panel;
+* **Connection**: traffic card, equipment, channel operation management configuration view;
+* **Account Center**: enterprise, user, role management and distribution authority account;
+* **Automation**: automation management rules, templates, push configuration, trigger conditions, etc.;
+* **System Management**: menu, parameters, dictionary, system monitoring, system tools, scheduled tasks, etc.;
 
-欢迎有兴趣的 开发者、商业合作、业务探讨 等 通过下方的联系方式联系。
+Interested developers, business cooperation, business discussions, etc. are welcome to contact through the contact information below.
 
-## 优势{#advantage}
+## advantage {#advantage}
 
-基于多能力接口 开放能力平台综合业务管理 / 运营物联卡,不仅限于物联网卡；
+Based on the multi-capability interface, the open capability platform comprehensive business management / operation of the IoT card is not limited to the IoT card;
 
-可为物联卡运营、接口对接需求 等垂直场景提供API对接管理基础架构，主要优势有：
+It can provide API docking management infrastructure for vertical scenarios such as IoT card operation and interface docking requirements. The main advantages are:
 
-* 多语言国际化(UI界面、后台回复、单用户喜好语言)
-* 机器人推送（国内主流机器人、国际主流社交软件）
-* 极致API同步能力采用队列多线程实例 多线程（队列多线程中增加java多线程，根据不同运营商接口独立特定同步算法体系
-* 自动化规则定义 规则触发模板 通知配置 触发条件等
-* 开源协议采用 Apache-2.0 (使用者可以自由修改，进行商业使用，没有开源要求)
-* 采用主流 Java 架构，具备高拓展性、灵活性
-* 对外提供内部 API，低成本二次开发
-* 多端应用程序满足不同拓展业务场景
-
-
-## 愿景{#vision}
-
-IoTOS 不做物联网专家，而是通过开源让每个企业、每个开发者 都是自己的物联网专家：
-
-以微薄之力，助力物联网行业发展；功成不必在‘我’。
-
-* 集成上游多API基础能力，拿来即用
-* 针对垂直行业提供一站式服务运营解决方案
-* 开放自身平台能力，让更多的开发者参与进来
-* 与企业、开发者 共同助力 物联网行业共建发展未来
+* Multilingual internationalization (UI interface, background reply, single user preferred language)
+* Robot push (domestic mainstream robots, international mainstream social software)
+* The ultimate API synchronization capability adopts queue multi-thread instance multi-thread (java multi-thread is added to queue multi-thread, and independent specific synchronization algorithm system according to different operator interfaces
+* Automation rule definition, rule trigger template, notification configuration, trigger condition, etc.
+* The open source protocol adopts Apache-2.0 (users can modify it freely for commercial use, there is no open source requirement)
+* Adopt mainstream Java architecture, with high scalability and flexibility
+* Provide internal API externally, low-cost secondary development
+* Multi-terminal applications meet different business expansion scenarios
 
 
-## 在线体验{#online-experience}
+## vision {#vision}
 
-- IoTOS PC端
+IoTOS is not an IoT expert, but allows every enterprise and developer to be its own IoT expert through open source:
 
-开源演示地址：[http://demo.iotos.top](http://demo.iotos.top/)
+Help the development of the Internet of Things industry with meager efforts; success does not have to be 'me'.
 
-默认账号密码：iotos，iotos.top
+* Integrate upstream multi-API basic capabilities, ready to use
+* Provide one-stop service operation solutions for vertical industries
+* Open up its own platform capabilities to allow more developers to participate
+* Work with enterprises and developers to help the Internet of Things industry to build and develop the future
 
-_（注意：演示环境已屏蔽管理权限和相关操作）_
 
-- IoTOS-App 安装包下载
+## Online Experience {#online-experience}
+
+- IoTOS PC terminal
+
+Open source demo address: [http://demo.iotos.top](http://demo.iotos.top/)
+
+Default account password: iotos, iotos.top
+
+_(Note: The demo environment has blocked administrative rights and related operations)_
+
+- IoTOS-App installation package download
 
 [https://gitee.com/chinaiot/iotos-app/tree/master/apk](https://gitee.com/chinaiot/iotos-app/tree/master/apk)
 
-## 技术栈{#technology-stack}
+## technology stack {#technology-stack}
 
-本项目基于 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 后台开发框架，感谢 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 的开源。
+This project is based on the background development framework of [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue), thanks to the open source of [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) .
 
-* 前端技术栈：ES6、Vue、Vue-router、Vue-cli、Axios、Element-ui；
-* 后端技术栈：Spring Boot、Mybatis-plus、Mybatis、RabbitMQ；
+* Front-end technology stack: ES6, Vue, Vue-router, Vue-cli, Axios, Element-ui;
+* Backend technology stack: Spring Boot, Mybatis-plus, Mybatis, RabbitMQ;
 
-## 项目结构{#project-structure}
+## Project Structure {#project-structure}
 
-**后端结构**
-
-```
-├── iotos-admin              // 后台服务主程序
-├── iotos-common             // 公共组件模块
-├── iotos-common-syn-ap      // API请求配置中心
-├── iotos-consumer-admin	   // 后台主程序-消费者
-├── iotos-consumer-task      // 定时任务-消费者
-├── iotos-framework	         // 框架核心
-├── iotos-generator          // 代码生成
-├── iotos-quartz             // 定时任务
-├── iotos-system             // 系统代码
+**Backend structure**
 
 ```
-**前端结构**
+├── iotos-admin // background service main program
+├── iotos-common // Common component module
+├── iotos-common-syn-ap // API request configuration center
+├── iotos-consumer-admin // background main program - consumer
+├── iotos-consumer-task // Timing task-consumer
+├── iotos-framework // framework core
+├── iotos-generator // code generation
+├── iotos-quartz // Timing tasks
+├── iotos-system // system code
 
 ```
-├── iotos-ui			     // 后台项目
+**Front-end structure**
+
+```
+├── iotos-ui // background project
 ```
 
-## 项目部署{#project-deployment}
+## Project deployment {#project-deployment}
 
-点击下方链接进入查看项目部署方式：
+Click the link below to view the project deployment method:
 
-[如何快速部署 IoTOS](http://www.iotos.top)
+[How to quickly deploy IoTOS](http://www.iotos.top)
 
-建议服务器最低配置：
+Recommended minimum server configuration:
 
-| 类型 | 配置 |
+| Type | Configuration |
 |:-:|:-:|
-|操作系统|CentOS8|
-|CPU|4核|
-|内存|8G|
-|带宽|5M|
-|硬盘|50G|
+|Operating System|CentOS8|
+|CPU|4 core|
+|Memory|8G|
+|Bandwidth|5M|
+|Hard disk|50G|
 
-## 常见问题{#common-problem}
+## Common Problem {#common-problem}
 
-点击下方链接进入帮助手册查看常见问题的相关描述及更多帮助：
+Click the link below to enter the help manual to view the description of common problems and more help:
 
-[常见问题](http://www.iotos.top/)
+[FAQ](http://www.iotos.top/)
 
-## 最近更新&后续开发方向{#follow-up-direction}
+## Recent update & follow-up development direction {#follow-up-direction}
 
 
 
-- [ ] 完善教程、按文档、视频 等资料文件形式 深入讲解 快速使用、了解运营、二次开发拓展、可发展方向等
-- [x] 移动端适配企业查询、用户绑定、同样适配国际化；
-- [x] OneLink EcV5接口业务继续延展：`智能诊断` 定义为平台数据诊断 API接口诊断且更具不同上游会展示出更多可诊断项界面等；
-- [ ] `自动化` 业务模块定义完善、包括机器人对接等；
-- [ ] `支付配置` 支付收款 国内主流支付接入、国际支付接入等；
-- [ ] `套餐定义` 套餐包含多类型 多配置 多组合等方式实现；
-- [ ] `企业预存`、`用户预存` 企业预存金额、订单返佣、用户充值预存 自主设置预付费扣费等；
-- [ ] `充值续费` 企业或用户 充值、续费、预存 等业务延展；
-- [ ] `中控分析` 包含但不限于 分析 企业、用户 充值数据（按时间、金额、交易类型、复购率、活性、数据同步成功率、交易订单时间区间 套餐结余 等）
-- [ ] `商城` 发售商品 购买下单流程、分销、物流
+- [ ] Perfect tutorials, in-depth explanations in the form of documents, videos and other data files Quick use, understanding of operations, secondary development and expansion, possible development directions, etc.
+- [x] The mobile terminal adapts to enterprise query, user binding, and also adapts to internationalization;
+- [x] OneLink EcV5 interface business continues to expand: `Smart Diagnosis` is defined as platform data diagnosis API interface diagnosis and more different upstreams will display more diagnosable item interfaces, etc.;
+- [ ] `Automation` business module is well defined, including robot docking, etc.;
+- [ ] `Payment configuration` Payment collection Domestic mainstream payment access, international payment access, etc.;
+- [ ] `Package Definition` The package includes multiple types, multiple configurations, and multiple combinations;
+- [ ] `Enterprise pre-deposit`, `User pre-deposit` Enterprise pre-deposit amount, order rebate, user top-up pre-deposit, independently set pre-paid deduction, etc.;
+- [ ] `Recharge and Renewal` Business or user recharge, renewal, pre-deposit and other business extensions;
+- [ ] `Central control analysis` includes but is not limited to analysis of enterprise and user recharge data (according to time, amount, transaction type, repurchase rate, activity, data synchronization success rate, transaction order time interval, package balance, etc.)
+- [ ] `Mall` Release products Purchase order process, distribution, logistics
 
-## V1.0.0 更新日志{#v1.0.0}
+## V1.0.0 Changelog {#v1.0.0}
 
-- [x] 多语言国际化；
-- [x] 通道、卡列表、用量记录、基础业务；
-- [x] 卡号自动同步载入策略；
-- [x] API目前仅支持 OneLink EcV5 接口(最终会依赖该接口全面对接 敬请期待！)；
-- [x] OneLink EcV5同步算法策略队列多线程使用java多线程套娃式显著提升算法同步效率；
-- [x] 用量、生命周期补偿算法完善；
-- [x] 首页统计数据完善；
+- [x] Multilingual internationalization;
+- [x] channels, card lists, usage records, basic services;
+- [x] Card number automatic synchronization loading strategy;
+- [x] API currently only supports the OneLink EcV5 interface (will eventually rely on this interface for full docking, so stay tuned!);
+- [x] OneLink EcV5 synchronization algorithm policy queue multi-threading uses java multi-threaded matryoshka to significantly improve algorithm synchronization efficiency;
+- [x] The usage and life cycle compensation algorithm is perfect;
+- [x] Home page stats improved;
 
-## V1.2.1 更新日志{#v1.2.1}
+## V1.2.1 Changelog {#v1.2.1}
 
-- [x] 登录页增加可修改数据轮播；
-- [x] 登录页增加国内常用运营商平台网站、国际平台运营商网站、关于-IoTOS链接；
-- [x] 登录页增加平台能力说明、开放协议说明、系列产品说明；
-- [x] 增加适配移动端系统通知登录后通过[IoTOS-IM](https://gitee.com/chinaiot/iotos-im)下发公告通知；
-- [x] 优化登录界面默认语言为 ‘中文’；
+- [x] Added a modifiable data carousel to the login page;
+- [x] The login page adds the domestic commonly used operator platform website, the international platform operator website, and about-IoTOS links;
+- [x] The login page adds platform capability descriptions, open protocol descriptions, and product series descriptions;
+- [x] Added notifications for adapting the mobile terminal system to issue announcements through [IoTOS-IM](https://gitee.com/chinaiot/iotos-im) after logging in;
+- [x] Optimize the default language of the login interface to 'Chinese';
 
-## V1.5.3 更新日志{#v1.5.3}
+## V1.5.3 change log {#v1.5.3}
 
-- [x] 通道数据统计增加 卡数量、总流量 已用流量 剩余流量 统计；
-- [x] 卡详情增加会话信息查询会话记录（分页查询）、导出历史记录；
-- [x] 新增智能诊断 卡状态、冻结状态、停机原因、区域限制状态、区域限制地区、设备状态、业务变更历史、已开通APN查询、诊断建议提示；（完美还原OneLink智能诊断）；
-- [x] 优化卡号同步算法bug；
-- [x] 优化卡号比对新增卡号算法定时任务触发间隔等；
-- [x] 优化定时清理上游同步卡号缓存（确保上游卡号变动时更新卡号或已销户卡不再同步）；
+- [x] channel data statistics increase card number, total flow, used flow, remaining flow statistics;
+- [x] Add session information query session records (paging query) and export history records for card details;
+- [x] Newly added smart diagnosis card status, freezing status, downtime reason, regional restriction status, regional restriction area, device status, business change history, APN query already opened, diagnosis suggestion prompt; (perfect restoration of OneLink smart diagnosis);
+- [x] Optimize the card number synchronization algorithm bug;
+- [x] Optimize card number comparison, add card number algorithm timing task trigger interval, etc.;
+- [x] Optimize the regular cleaning of the upstream synchronization card number cache (to ensure that the card number is updated when the upstream card number changes or the canceled card is no longer synchronized);
 
-## 联系我们{#contact-us}
+## Contact us {#contact-us}
 
-如果你想加入我们的开源交流群、有任何 IoTOS 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 IoTOS 项目作者，加入群聊：
+If you want to join our open source exchange group, have any ideas, opinions or suggestions on IoTOS products, or business cooperation needs, please scan the QR code to add IoTOS project authors and join the group chat:
 
 ![WeChat](../public/images/readme-pic/cn/contact1.jpg)
 
-- 微信公众号
+- WeChat public account
 
 ![WeChatPublicAccount](../public/images/readme-pic/cn/gzhewm.gif)
 
 
-## 捐赠支持{#donation-support}
+## Donation Support {#donation-support}
 
-如果您是企业的经营者并且有计划将 `IoTOS` 用在公司的经营产品中，欢迎进行长期捐赠。长期捐赠有商业上的益处有：
+If you are a business owner and have plans to use `IoTOS` in your company's business products, long-term donations are welcome. The business benefits of long-term donations are:
 
-* 积极响应，快速维护，及时更新；
-* 企业名称、Logo 及官网链接将长期展示在开源仓库、`IoTOS` 官网及宣发材料中；
-* 捐赠金额同比例抵扣未来 `IoTOS` 的付费产品价格。
+* Positive response, fast maintenance and timely update;
+* The company name, logo and official website link will be displayed in the open source warehouse, `IoTOS` official website and publicity materials for a long time;
+* The donation amount will be deducted from the price of paid products of `IoTOS` in the same proportion.
 
-如果您对长期赞助 `IoTOS` 团队感兴趣，或者有其他好想法，欢迎联系开发团队微信 `iotos_top`，或发送邮件到 `card@iotos.top`。
-
-
-
-
-
-
+If you are interested in long-term sponsorship of the `IoTOS` team, or have other good ideas, please contact the development team on WeChat `iotos_top`, or send an email to `card@iotos.top`.

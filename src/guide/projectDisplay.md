@@ -2,109 +2,109 @@
 footer: false
 ---
 
-# 项目截图 {#projectDisplay}
+# project screenshot {#projectDisplay}
 
-## IoTOS PC端 {#iotos-pc}
+## IoTOS PC {#iotos-pc}
 
-## 登录页{#pc-login}
+## login page {#pc-login}
 
-![index 登录1](../public/images/readme-pic/cn/cr1.png)
+![index login 1](../public/images/readme-pic/cn/cr1.png)
 
-![index 登录2](../public/images/readme-pic/cn/cr2.png)
+![index login 2](../public/images/readme-pic/cn/cr2.png)
 
-![index 登录3](../public/images/readme-pic/cn/cr3.png)
+![index login 3](../public/images/readme-pic/cn/cr3.png)
 
-![index 登录4](../public/images/readme-pic/cn/cr4.png)
+![index login 4](../public/images/readme-pic/cn/cr4.png)
 
 
-## 首页{#pc-index}
+## Home {#pc-index}
 
-![index 首页](../public/images/readme-pic/cn/index.png)
+![index homepage](../public/images/readme-pic/cn/index.png)
 
-## 通道{#pc-channel}
+## channel {#pc-channel}
 
-![channel 通道](../public/images/readme-pic/cn/channel.png)
+![channel channel](../public/images/readme-pic/cn/channel.png)
 
-## 卡列表{#pc-card}
+## card list {#pc-card}
 
-![card 卡列表](../public/images/readme-pic/cn/card.png)
+![card list](../public/images/readme-pic/cn/card.png)
 
-## 卡号详情{#pc-cardInfoUsed}
+## Card Number Details {#pc-cardInfoUsed}
 
-![cardInfoUsed 卡号详情](../public/images/readme-pic/cn/cardInfoUsed.png)
+![cardInfoUsed card number details](../public/images/readme-pic/cn/cardInfoUsed.png)
 
-## 业务办理{#pc-businessHandling}
+## Business Handling{#pc-businessHandling}
 
-![businessHandling 业务办理](../public/images/readme-pic/cn/businessHandling.png)
+![businessHandling Business Handling](../public/images/readme-pic/cn/businessHandling.png)
 
-## 执行任务{#pc-task}
+## execute task {#pc-task}
 
-![task 执行任务](../public/images/readme-pic/cn/task.png)
+![task execute task](../public/images/readme-pic/cn/task.png)
 
-## 执行任务-文件{#pc-taskFile}
+## execute task-file {#pc-taskFile}
 
-![taskFile 执行任务-文件](../public/images/readme-pic/cn/taskFile.png)
+![taskFile execute task-file](../public/images/readme-pic/cn/taskFile.png)
 
-## 执行任务-文件-下载记录{#pc-taskFileDownload}
+## Execute task-file-download record{#pc-taskFileDownload}
 
-![taskFileDownload 执行任务-文件-下载记录](../public/images/readme-pic/cn/taskFileDownload.png)
+![taskFileDownload execution task-file-download record](../public/images/readme-pic/cn/taskFileDownload.png)
 
-## 划分撤回{#pc-divisionWithdrawn}
+## Division Withdrawn {#pc-divisionWithdrawn}
 
-![divisionWithdrawn 划分撤回](../public/images/readme-pic/cn/divisionWithdrawn.png)
+![divisionWithdrawn Division Withdrawn](../public/images/readme-pic/cn/divisionWithdrawn.png)
 
-## 国际化语言{#pc-language}
+## Internationalization Language {#pc-language}
 
-![language 国际化语言](../public/images/readme-pic/cn/language.png)
+![language internationalization language](../public/images/readme-pic/cn/language.png)
 
-## 关于IoTOS{#pc-IoTOS}
+## About IoTOS {#pc-IoTOS}
 
-![IoTOS 关于 IoTOS](../public/images/readme-pic/cn/IoTOS.png)
+![IoTOS About IoTOS](../public/images/readme-pic/cn/IoTOS.png)
 
-## IoTOS-App 移动端 {#iotos-app}
+## IoTOS-App Mobile {#iotos-app}
 
-## 登录页{#app-loginLgChange}
+## Login Page {#app-loginLgChange}
 
 ![loginLgChange](../public/images/readme-pic/cn/loginLgChange.jpg)
 
-## 工作台{#app-workIndex}
+## workbench {#app-workIndex}
 
 ![workIndex](../public/images/readme-pic/cn/work_index_app.png)
 
-## 我的{#app-my}
+##my{#app-my}
 
 ![my](../public/images/readme-pic/cn/my.png)
 
-## 语言切换{#app-lgChange}
+## Language switch {#app-lgChange}
 
 ![lgChange](../public/images/readme-pic/cn/lgChange.jpg)
 
-## 登录公告与通知{#app-notify}
+## Login Announcements and Notifications {#app-notify}
 
 ![notify](../public/images/readme-pic/cn/notify.jpg)
 
-## 卡信息查询{#app-cardInfo_app}
+## Card information query {#app-cardInfo_app}
 
 ![cardInfo_app](../public/images/readme-pic/cn/cardInfo_app.png)
 
-## 会话记录{#app-cardSession_app}
+## Session Record {#app-cardSession_app}
 
 ![cardSession_app](../public/images/readme-pic/cn/cardSession_app.png)
 
-## 智能诊断{#app-diagnosis_app}
+## Smart Diagnosis {#app-diagnosis_app}
 
 ![diagnosis_app](../public/images/readme-pic/cn/diagnosis_app.png)
 
-## 用量记录{#app-usedRecord_app}
+## Usage Record {#app-usedRecord_app}
 
 ![usedRecord_app](../public/images/readme-pic/cn/usedRecord_app.png)
 
-## 业务办理{#app-cardApiBuinessHandIing_app}
+## Business handling {#app-cardApiBuinessHandIing_app}
 
 ![cardApiBuinessHandIing_app](../public/images/readme-pic/cn/cardApiBuinessHandIing_app.png)
 
-## 通知消息{#app-notify_app}
+## Notification message {#app-notify_app}
 
-> 暂未实现 仅完善了单界面ui 
+> Not implemented yet, only improved single-interface ui
 
 ![notify_app](../public/images/readme-pic/cn/notify_app.png)
