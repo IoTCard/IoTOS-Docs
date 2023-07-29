@@ -294,18 +294,16 @@ export default defineConfigWithTheme<ThemeConfig>({
     algolia: {
       indexName: 'iotos',
       appId: 'DZKU2LJK6G',
-      apiKey: '6dc4cb2c0f315c879af3aafa9b879f45',
-      searchParameters: {
-      }
+      apiKey: '6dc4cb2c0f315c879af3aafa9b879f45'
     },
 
     carbonAds: {
-      code: 'CEBDT27Y',
-      placement: 'vuejsorg'
+      code: '123123',
+      placement: '123123'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://gitee.com/chinaiot' }
+      { icon: 'github', link: 'https://gitee.com/chinaiot/' }
     ],
 
     /*editLink: {
