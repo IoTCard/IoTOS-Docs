@@ -1,0 +1,85 @@
+@import "./pages.css";
+@import "./badges.css";
+@import "./options-boxes.css";
+@import "./inline-demo.css";
+@import "./utilities.css";
+@import "./style-guide.css";
+
+/* bugfix: https://github.com/vuejs/theme/pull/95 */
+
+.vt-flyout-menu {
+  max-height: calc(100vh - var(--vt-nav-height) - var(--vt-banner-height, 0px)) !important;
+}
+
+.VPNavBarTitle{
+ /* display: none!important;*/
+}
+
+.VPNavBarMenuLink:hover{
+  color: #3ba4ff!important;
+}
+.vt-menu-link:hover{
+  color: #3ba4ff!important;
+}
+.vt-doc a{
+  color: #3ba4ff!important;
+}
+.outline-link:hover{
+  color: #3ba4ff!important;
+}
+.outline-marker{
+  background-color: #3ba4ff!important;
+}
+.vt-doc a > code{
+  color: #3ba4ff!important;
+}
+.vt-doc :not(pre) > code{
+  color: #3ba4ff!important;
+}
+.VPNavBarMenuLink.active{
+  border-bottom: 1px solid #3ba4ff!important;
+}
+a.vt-locales-menu-item-text:hover{
+  color: #3ba4ff!important;
+}
+
+.DocSearch-Button-Keys:hover{
+  border: 1px solid #3ba4ff!important;
+}
+.DocSearch-Button-Key{
+  color: #3ba4ff!important;
+}
+.link.active .link-text{
+  color: #3ba4ff!important;
+}
+.vt-link{
+color: #3ba4ff!important;
+}
+.vt-icon{
+  color: #3ba4ff!important;
+}
+.title{
+  color: #3ba4ff!important;
+}
+.DocSearch-Form{
+  border: 1px solid #3ba4ff!important;
+}
+.DocSearch-MagnifierLabel, .DocSearch-Reset{
+  color: #3ba4ff!important;
+}
+.DocSearch-Hit-source{
+  color: #3ba4ff!important;
+}
+.DocSearch{
+  --docsearch-primary-color: #3ba4ff!important;
+  --docsearch-highlight-color: #3ba4ff!important;
+}
+.custom-block.tip{
+  border: 1px solid #3ba4ff!important;
+}
+.custom-block.tip:before{
+  color: #3ba4ff!important;
+}
+.next-steps .vt-box:hover{
+  border: 1px solid #3ba4ff!important;
+}
