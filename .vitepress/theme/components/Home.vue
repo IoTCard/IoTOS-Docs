@@ -36,6 +36,7 @@ onMounted(async () => {
           />
         </svg>
       </a>
+      <a class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">Code-Gitee</a>
       <a class="setup btn1" href="/guide/introduction.html">Get started</a>
     </p>
   </section>
@@ -322,4 +323,10 @@ html:not(.dark) .accent,
 .lead:hover{
   color: #3ba4ff !important;
 }
+.sourceCodeGitee{
+  margin-right: 18px;
+  background-color: #c71d23!important;
+  color:white!important;
+}
+
 </style>
