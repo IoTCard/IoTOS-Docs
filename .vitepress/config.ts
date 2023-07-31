@@ -293,8 +293,8 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     algolia: {
       indexName: 'iotos',
-      appId: 'DZKU2LJK6G',
-      apiKey: '6dc4cb2c0f315c879af3aafa9b879f45'
+      appId: 'YMA83EJP8U',
+      apiKey: 'df3cd029eec544e53f53a0e53ec67ad3'
     },
 
     carbonAds: {
