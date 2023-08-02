@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 
-const VIDEO_SOURCE = '//player.bilibili.com/player.html?aid='
+const VIDEO_SOURCE = '//player.bilibili.com/player.html?aid=531656807&bvid=BV1gu411H7sG&cid=1219994215&page=1'
 const showWhyVue = ref(false)
 
 watch(
@@ -15,7 +15,7 @@ watch(
 </script>
 
 <template>
-<!--  <a
+ <a
     id="vuemastery-action"
     class="why-vue"
     @click="showWhyVue = true"
@@ -33,8 +33,8 @@ watch(
         d="M50,3.8C24.5,3.8,3.8,24.5,3.8,50S24.5,96.2,50,96.2S96.2,75.5,96.2,50S75.5,3.8,50,3.8z M71.2,53.3l-30.8,18  c-0.6,0.4-1.3,0.5-1.9,0.5c-0.6,0-1.3-0.1-1.9-0.5c-1.2-0.6-1.9-1.9-1.9-3.3V32c0-1.4,0.8-2.7,1.9-3.3c1.2-0.6,2.7-0.6,3.8,0  l30.8,18c1.2,0.6,1.9,1.9,1.9,3.3S72.3,52.7,71.2,53.3z"
       ></path>
     </svg>
-    何为 IoTOS
-  </a>-->
+   Why IoTOS
+  </a>
   <Teleport v-if="showWhyVue" to="body">
     <div
       @click="showWhyVue = false"
