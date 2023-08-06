@@ -71,6 +71,10 @@ const nav: ThemeConfig['nav'] = [
     ]
   },
   {
+    text: '视频资料',
+    link: `/video/highlightVideo`
+  },
+  {
     text: '联系我们',
     link: `/about/`
   },
@@ -81,6 +85,17 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+
+  '/video/': [
+    {
+      text: '视频目录',
+      items: [
+        { text: '花絮视频', link: '/video/highlightVideo' },
+        { text: '正片部分', link: '/video/features'}
+      ]
+    }
+  ],
+
   '/guide/': [
     {
       text: '开始',
