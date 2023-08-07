@@ -71,6 +71,10 @@ const nav: ThemeConfig['nav'] = [
     ]
   },
   {
+    text: 'Video information',
+    link: `/video/highlightVideo`
+  },
+  {
     text: 'Contact us',
     link: `/about/`
   },
@@ -81,6 +85,15 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+  '/video/': [
+    {
+      text: 'Video Directory',
+      items: [
+        { text: 'Highlight Video', link: '/video/highlightVideo' },
+        { text: 'Feature part', link: '/video/features'}
+      ]
+    }
+  ],
   '/guide/': [
     {
       text: 'Start',
