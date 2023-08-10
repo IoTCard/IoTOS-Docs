@@ -15,10 +15,10 @@ onMounted(async () => {
   <section id="hero">
     <h1 class="tagline">
       <span class="accent">IoTOS-IoTCard</span>
-      <br />一款高效实用 IoTCard 管理 & 运营系统。
+      <br />高效实用 IoTCard 管理 & 运营系统。
     </h1>
     <p class="description">
-      IoTOS 目前取名范围过大，其主要用于IoTCard 管理业务以高效、健壮、灵活设计 SaaS <br/>多语言、机器人推送、自动化管理、数据同步多类型算法为主要业务。
+      物联网卡运营综合平台 多接口能力集成，极致同步算法、千万数据承载量、国际化方案。<br/> 多端系统、直充内充、内置商城、套餐打包、自动化管理、预存扣费。
     </p>
     <p class="actions">
       <VueMasteryModal />
