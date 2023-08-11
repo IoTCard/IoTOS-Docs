@@ -12,17 +12,17 @@ footer: false
 
  let videoList = [
       {
-        url:"https://www.bilibili.com/video/BV1Gh4y1F7FP",
+        url:"https://www.bilibili.com/video/BV1Gh4y1F7FP/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
         bImg:"http://www.iotos.top/images/readme-pic/f01.png",
         dText:"国产开源软件 ",
         d1Text:"开源IoTOS 你用过吗？",
       },{
-        url:"https://www.bilibili.com/video/BV1Zz4y1s7rT",
+        url:"https://www.bilibili.com/video/BV1Zz4y1s7rT/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
         bImg:"http://www.iotos.top/images/readme-pic/f02.png",
         dText:"开源IoTOS",
         d1Text:"海报分享！",
       },{
-        url:"https://www.bilibili.com/video/BV1Lh4y1C7Mb",
+        url:"https://www.bilibili.com/video/BV1Lh4y1C7Mb/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
         bImg:"http://www.iotos.top/images/readme-pic/f03.png",
         dText:"开源IoTOS",
         d1Text:"关注超过100人！",

@@ -10,12 +10,12 @@ footer: false
 
  let videoList = [
       {
-        url:"https://www.bilibili.com/video/BV1mV41157Rh",
+        url:"https://www.bilibili.com/video/BV1mV41157Rh/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
         bImg:"http://www.iotos.top/images/readme-pic/v00.png",
         dText:"开源IoTOS",
         d1Text:"项目介绍",
       },{
-        url:"https://www.bilibili.com/video/BV1SF411f7Uk",
+        url:"https://www.bilibili.com/video/BV1SF411f7Uk/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
         bImg:"http://www.iotos.top/images/readme-pic/v01.png",
         dText:"开源IoTOS",
         d1Text:"01由来&未来方向",
