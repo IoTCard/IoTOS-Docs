@@ -18,7 +18,8 @@ onMounted(async () => {
       <br />An efficient and practical IoTCard management & operation system.
     </h1>
     <p class="description">
-      IoTOS is currently named too broadly, and it is mainly used for IoTCard management business with efficient, robust, and flexible design SaaS multi-language, robot push, automatic management, and data synchronization multi-type algorithms as the main business.
+      Integrated platform for IoT card operation Multi-interface capability integration, extreme synchronization algorithm, tens of millions of data carrying capacity, and international solutions. <br/>
+      Multi-terminal system, direct charging and internal charging, built-in mall, package packaging, automatic management, pre-deposit and deduction.
     </p>
     <p class="actions">
       <VueMasteryModal />
