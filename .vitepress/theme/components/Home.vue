@@ -36,7 +36,7 @@ onMounted(async () => {
           />
         </svg>
       </a>
-      <a class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">源码-Gitee</a>
+      <a target="_blank" class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">源码-Gitee</a>
       <a class="setup btn1" href="/guide/introduction.html">开始搭建</a>
     </p>
   </section>
