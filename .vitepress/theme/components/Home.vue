@@ -37,7 +37,7 @@ onMounted(async () => {
           />
         </svg>
       </a>
-      <a class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">Code-Gitee</a>
+      <a target="_blank"  class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">Code-Gitee</a>
       <a class="setup btn1" href="/guide/introduction.html">Get started</a>
     </p>
   </section>
