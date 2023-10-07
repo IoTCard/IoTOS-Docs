@@ -23,8 +23,9 @@ onMounted(async () => {
     </p>
     <p class="actions">
       <VueMasteryModal />
-      <a target="_blank" class="get-started demoA" href="http://demo.iotos.top">
-        demo site
+      <a target="_blank"  class="setup sourceCodeGitee" href="http://demo.iotos.top">demo site</a>
+      <a target="_blank" class="get-started demoA" href="http://vip.iotos.top/register">
+        Business Version
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -37,7 +38,6 @@ onMounted(async () => {
           />
         </svg>
       </a>
-      <a target="_blank"  class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">Code-Gitee</a>
       <a class="setup btn1" href="/guide/introduction.html">Get started</a>
     </p>
   </section>
@@ -326,7 +326,7 @@ html:not(.dark) .accent,
 }
 .sourceCodeGitee{
   margin-right: 18px;
-  background-color: #c71d23!important;
+  background-color: #3ba4ff!important;
   color:white!important;
 }
 

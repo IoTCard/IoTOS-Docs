@@ -12,6 +12,18 @@ footer: false
 
   let videoList = [
        {
+         url:"https://www.bilibili.com/video/BV1cp4y1F7eU/?spm_id_from=333.999.0.0&vd_source=dd1ff5f9b766b029147919f86e238c99",
+         bImg:"http://www.iotos.top/images/readme-pic/f04.png",
+         dText:"IoTOS-Plus ",
+         d1Text:"Introduction to PPT",
+       },
+       {
+         url:"https://www.bilibili.com/video/BV1fj41187m8/?spm_id_from=333.999.0.0&vd_source=dd1ff5f9b766b029147919f86e238c99",
+         bImg:"http://www.iotos.top/images/readme-pic/f05.png",
+         dText:"Business Edition Plus",
+         d1Text: "'Far Ahead' | See you in October",
+       },
+       {
          url: "https://www.bilibili.com/video/BV1Gh4y1F7FP/?share_source=copy_web&vd_source=541c4cf9c3b292abf5db62f583478344",
          bImg: "http://www.iotos.top/images/readme-pic/f01.png",
          dText: "Domestic open source software",
