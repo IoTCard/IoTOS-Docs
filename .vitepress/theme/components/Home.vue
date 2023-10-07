@@ -22,8 +22,9 @@ onMounted(async () => {
     </p>
     <p class="actions">
       <VueMasteryModal />
-      <a target="_blank"  class="get-started demoA" href="http://demo.iotos.top">
-        演示站点
+      <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
+      <a target="_blank"  class="get-started demoA" href="http://vip.iotos.top/register">
+        领先商业版
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -36,7 +37,6 @@ onMounted(async () => {
           />
         </svg>
       </a>
-      <a target="_blank" class="setup sourceCodeGitee" href="https://gitee.com/chinaiot">源码-Gitee</a>
       <a class="setup btn1" href="/guide/introduction.html">开始搭建</a>
     </p>
   </section>
@@ -325,7 +325,7 @@ html:not(.dark) .accent,
 }
 .sourceCodeGitee{
   margin-right: 18px;
-  background-color: #c71d23!important;
+  background-color: #3ba4ff!important;
   color:white!important;
 }
 
