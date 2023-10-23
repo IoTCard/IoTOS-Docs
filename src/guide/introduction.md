@@ -12,7 +12,7 @@ IoTOS open source will be extended as an open source series, which currently inc
 
 - [IoTOS](https://gitee.com/chinaiot/iotos) International IoT Card Management System, Extreme Synchronization Algorithm, Package Multi-Packaging, Automated Management, Mall Management
 - [IoTOS-App](https://gitee.com/chinaiot/iotos-app) IoTOS adapts to mobile terminal, endpoint chat, purchase order, pre-deposit, recharge and renewal
-- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app) IoTOS network message middleware is based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search )([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search)architecture) extension
+- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app) IoTOS network message middleware is based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search ) extension
 
 IoTOS-IoTCard is based on the comprehensive business management of multiple upstream API interfaces of the Internet of Things, follows the process of efficient data synchronization and maintenance operation, then establishes system package distribution for tariff marketing, and finally creates value again in the process of marketing, operation and other service provision.
 
