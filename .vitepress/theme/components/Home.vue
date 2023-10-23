@@ -84,7 +84,7 @@ onMounted(async () => {
     <div class="vt-box">
       <h2><a href="https://gitee.com/chinaiot/iotos-im" target="_blank" > IoTOS-IM</a></h2>
       <p>
-        基于 J-IM（t-io） 架构集成至 IoTOS 与 IoTOS-App 网络通信中间件。（网络通讯后续可拓展为其他协议接入或系统内部聊天等）
+        基于 J-IM 架构集成至 IoTOS 与 IoTOS-App 网络通信中间件。（网络通讯后续可拓展为其他协议接入或系统内部聊天等）
       </p>
     </div>
   </section>

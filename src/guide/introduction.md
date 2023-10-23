@@ -12,7 +12,7 @@ IoTOS 开源我们会作为一个开源系列开源延展，目前包括:
 
 - [IoTOS](https://gitee.com/chinaiot/iotos) 国际物联卡管理系统、极致同步算法、套餐多包装、自动化管理、商城管理
 - [IoTOS-App](https://gitee.com/chinaiot/iotos-app) IoTOS适配移动端、端点聊天、购买下单、预存、充值续费
-- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app)  IoTOS 网络消息中间件 基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search)架构) 拓展
+- [IoTOS-IM](https://gitee.com/chinaiot/iotos-app)  IoTOS 网络消息中间件 基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search) 拓展
 
 IoTOS-IoTCard 基于物联网多上游API接口综合业务管理，遵从高效数据同步并维护运营，再到建立系统套餐分发进行资费营销，最后在营销、运营 等服务提供 过程中再次创造价值的流程。
 
