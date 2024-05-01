@@ -246,8 +246,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   lang: 'zh-CN',
-  title: 'IoTOS',
-  description: 'IoTOS 一款高效实用 IoTCard 管理 & 运营系统。',
+  title: '码农的一天',
+  description: '码农的一天，物联网卡综合充值系统天花板！充 话费、短信、语音、流量、国际卡、电费、水费！',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
