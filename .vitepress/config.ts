@@ -66,10 +66,10 @@ const nav: ThemeConfig['nav'] = [
       }
     ]
   },
-  // {
-  //   text: '视频教程',
-  //   link: `/video/highlightVideo`
-  // },
+  {
+    text: '视频教程',
+    link: `/video/highlightVideo`
+  },
   {
     text: '联系',
     link: `/about/`
@@ -242,8 +242,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   lang: 'zh-CN',
-  title: '码农的一天',
-  description: '码农的一天，物联网卡综合充值系统天花板！充 话费、短信、语音、流量、国际卡、电费、水费！',
+  title: '美歆好电子商务',
+  description: '美歆好电子商务，物联网卡综合充值系统天花板！充 话费、短信、语音、流量、国际卡、电费、水费！',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 

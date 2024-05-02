@@ -14,15 +14,15 @@ onMounted(async () => {
 <template>
   <section id="hero">
     <h1 class="tagline">
-      <span class="accent">IoTOS-IoTCard</span>
-      <br />高效实用 IoTCard 管理 & 运营系统。
+      <span class="accent"> IoTOS-IoTCard</span>
+      <br />综合业务充值系统 IoTCard 管理 & 运营系统。
     </h1>
     <p class="description">
       物联网卡运营综合平台 多接口能力集成，极致同步算法、千万数据承载量、国际化方案。<br/> 多端系统、直充内充、内置商城、套餐打包、自动化管理、预存扣费。
     </p>
     <p class="actions">
       <VueMasteryModal />
-<!--      <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
+      <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
       <a target="_blank"  class="get-started demoA" href="http://vip.iotos.top/register">
         体验站点
         <svg
@@ -36,7 +36,7 @@ onMounted(async () => {
             d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
           />
         </svg>
-      </a>-->
+      </a>
       <a class="setup btn1" href="/guide/introduction.html">开始搭建</a>
     </p>
   </section>
