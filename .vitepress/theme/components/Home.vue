@@ -22,7 +22,7 @@ onMounted(async () => {
     </p>
     <p class="actions">
       <VueMasteryModal />
-      <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
+<!--      <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
       <a target="_blank"  class="get-started demoA" href="http://vip.iotos.top/register">
         体验站点
         <svg
@@ -36,7 +36,7 @@ onMounted(async () => {
             d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
           />
         </svg>
-      </a>
+      </a>-->
       <a class="setup btn1" href="/guide/introduction.html">开始搭建</a>
     </p>
   </section>
