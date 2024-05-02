@@ -59,10 +59,6 @@ const nav: ThemeConfig['nav'] = [
         text: '资料',
         items: [
           {
-            text: '知识星球',
-            link: 'https://wx.zsxq.com/dweb2/index/group/88885884441552'
-          },
-          {
             text: '镜像共享-阿里云',
             link: '/ecosystem/mirrorImageAliYun'
           }
@@ -75,7 +71,7 @@ const nav: ThemeConfig['nav'] = [
   //   link: `/video/highlightVideo`
   // },
   {
-    text: '联系我们',
+    text: '联系',
     link: `/about/`
   },
   {

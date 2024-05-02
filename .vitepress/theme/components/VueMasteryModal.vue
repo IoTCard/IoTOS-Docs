@@ -15,7 +15,7 @@ watch(
 </script>
 
 <template>
- <a
+<!-- <a
     id="vuemastery-action"
     class="why-vue"
     @click="showWhyVue = true"
@@ -34,7 +34,7 @@ watch(
       ></path>
     </svg>
     何为 IoTOS
-  </a>
+  </a>-->
   <Teleport v-if="showWhyVue" to="body">
     <div
       @click="showWhyVue = false"

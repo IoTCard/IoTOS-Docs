@@ -8,7 +8,7 @@ footer: false
 
 ## 什么是 IoTOS? {#what-is-iotos}
 
-IoTOS 开源我们会作为一个开源系列开源延展，目前包括:
+IoTOS 开源会作为一个开源系列开源延展，目前包括:
 
 - [IoTOS](https://gitee.com/chinaiot/iotos) 国际物联卡管理系统、极致同步算法、套餐多包装、自动化管理、商城管理
 - [IoTOS-App](https://gitee.com/chinaiot/iotos-app) IoTOS适配移动端、端点聊天、购买下单、预存、充值续费
@@ -161,9 +161,9 @@ _（注意：演示环境已屏蔽管理权限和相关操作）_
 - [x] 优化卡号比对新增卡号算法定时任务触发间隔等；
 - [x] 优化定时清理上游同步卡号缓存（确保上游卡号变动时更新卡号或已销户卡不再同步）；
 
-## 联系我们{#contact-us}
+## 联系{#contact-us}
 
-如果你想加入我们的开源交流群、有任何 IoTOS 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 IoTOS 项目作者，加入群聊：
+如果你想加入的开源交流群、有任何 IoTOS 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 IoTOS 项目作者，加入群聊：
 
 ![WeChat](../public/images/readme-pic/cn/contact1.jpg)
 
