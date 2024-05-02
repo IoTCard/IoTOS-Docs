@@ -56,7 +56,7 @@ const nav: ThemeConfig['nav'] = [
     activeMatch: `^/ecosystem/`,
     items: [
       {
-        text: '付费资料',
+        text: '资料',
         items: [
           {
             text: '知识星球',
@@ -70,10 +70,10 @@ const nav: ThemeConfig['nav'] = [
       }
     ]
   },
-  {
-    text: '视频资料',
-    link: `/video/highlightVideo`
-  },
+  // {
+  //   text: '视频教程',
+  //   link: `/video/highlightVideo`
+  // },
   {
     text: '联系我们',
     link: `/about/`

@@ -24,7 +24,7 @@ onMounted(async () => {
       <VueMasteryModal />
       <a target="_blank" class="setup sourceCodeGitee" href="http://demo.iotos.top">演示站点</a>
       <a target="_blank"  class="get-started demoA" href="http://vip.iotos.top/register">
-        领先商业版
+        体验站点
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
