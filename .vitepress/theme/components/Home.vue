@@ -15,7 +15,7 @@ onMounted(async () => {
   <section id="hero">
     <h1 class="tagline">
       <span class="accent"> IoTOS-IoTCard</span>
-      <br />综合业务充值系统 IoTCard 管理 & 运营系统。
+      <br />综合业务充值系统 不止物联卡运营。
     </h1>
     <p class="description">
       物联网卡运营综合平台 多接口能力集成，极致同步算法、千万数据承载量、国际化方案。<br/> 多端系统、直充内充、内置商城、套餐打包、自动化管理、预存扣费。
