@@ -324,7 +324,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     footer: {
       license: {
-        text: 'Apache-2.0 鲁ICP备2023009550号',
+        text: 'Apache-2.0 赣ICP备2023012091号-2',
         link: 'https://beian.miit.gov.cn'
       },
       copyright: `Copyright © 2023-${new Date().getFullYear()}  iotos.top`
