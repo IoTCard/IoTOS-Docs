@@ -242,8 +242,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   lang: 'zh-CN',
-  title: '艾欧替',
-  description: '艾欧替，物联网卡综合充值系统天花板！充 话费、短信、语音、流量、国际卡、电费、水费！',
+  title: '艾欧替电子商务',
+  description: '艾欧替电子商务，物联网卡综合充值系统天花板！充 话费、短信、语音、流量、国际卡、电费、水费！',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
